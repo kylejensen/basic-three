@@ -1,2 +1,2 @@
-# basic-three
-Basic rotating cube using three.js
+# Basic Three.js
+Simple rotating cube using three.js
