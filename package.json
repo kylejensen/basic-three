@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/kylejensen/basic-three/issues"
   },
-  "homepage": "https://github.com/kylejensen/basic-three#readme"
+  "homepage": "https://github.com/kylejensen/basic-three#readme",
+  "devDependencies": {
+    "three": "^0.89.0",
+    "webpack": "^3.10.0"
+  }
 }
