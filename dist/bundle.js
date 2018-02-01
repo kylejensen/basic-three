@@ -105,7 +105,7 @@ camera.lookAt(new __WEBPACK_IMPORTED_MODULE_0_three__["f" /* Vector3 */](0, 0, 0
 
 var scene = new __WEBPACK_IMPORTED_MODULE_0_three__["e" /* Scene */]();
 
-var material = new __WEBPACK_IMPORTED_MODULE_0_three__["c" /* LineBasicMaterial */]({color: 0x0000ff});
+var material = new __WEBPACK_IMPORTED_MODULE_0_three__["c" /* LineBasicMaterial */]({color: 0xffffff});
 var geometry = new __WEBPACK_IMPORTED_MODULE_0_three__["a" /* Geometry */]();
 geometry.vertices.push(new __WEBPACK_IMPORTED_MODULE_0_three__["f" /* Vector3 */](-10, 0, 0));
 geometry.vertices.push(new __WEBPACK_IMPORTED_MODULE_0_three__["f" /* Vector3 */](0, 10, 0));

@@ -33,7 +33,7 @@ camera.lookAt(new THREE.Vector3(0, 0, 0));
 
 var scene = new THREE.Scene();
 
-var material = new THREE.LineBasicMaterial({color: 0x0000ff});
+var material = new THREE.LineBasicMaterial({color: 0xffffff});
 var geometry = new THREE.Geometry();
 geometry.vertices.push(new THREE.Vector3(-10, 0, 0));
 geometry.vertices.push(new THREE.Vector3(0, 10, 0));
