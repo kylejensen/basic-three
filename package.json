@@ -1,0 +1,19 @@
+{
+  "name": "basic-three",
+  "version": "1.0.0",
+  "description": "Simple rotating cube using three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylejensen/basic-three.git"
+  },
+  "author": "kylejensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylejensen/basic-three/issues"
+  },
+  "homepage": "https://github.com/kylejensen/basic-three#readme"
+}
